@@ -13,7 +13,8 @@ If your changes are significant, open an issue first to discuss plans
     Use a descriptive name, e.g. add/<app> or fix/<issue-number>-short-desc
 3. Make your changes on that branch 
 4. Push the branch to your fork and open a Pull Request (PR) against this repository's default branch
-    If you used the web editor, GitHub will create a fork and open a PR for you automatically
+   
+ If you used the web editor, GitHub will create a fork and open a PR for you automatically
 5. Fill out the PR template to help reviewers
 
 If you have write access
@@ -38,6 +39,7 @@ Any special settings needed to get the app to work, e.g. Exploit Protection Comp
 Maintainers will review and may request changes
 # Tips to make your PR easy to merge
 Follow the exact entry format
+
 Keep your PR small and focused
 # Questions or help
 If you are unsure about the format or have a question, please open an issue.
