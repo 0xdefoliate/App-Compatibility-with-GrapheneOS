@@ -32,7 +32,8 @@ To keep the list consistent, follow this Markdown line format for each app
   App Name--link to app below App Name
 # What to include in your PR
 A clear title and the filled PR template
-One app per PR for easier review (exceptions: bulk imports discussed before hand)
+
+Any special settings needed to get the app to work, e.g. Exploit Protection Compatibility Mode (if applicable)
 # Review and merging
 Maintainers will review and may request changes
 # Tips to make your PR easy to merge
