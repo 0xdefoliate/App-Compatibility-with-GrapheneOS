@@ -2,12 +2,16 @@ Thank you for wanting to contribute! This document explains the preferred work f
 # Before you begin
 Please read the repository README 
 
+IMPORTANT NOTE; If you only want one app added to the list, just open an issue with the title Add App--App Name
+
+Creating a Pull Request is better if you want to contribute more than 1 app to the list at a time.
+
 If your changes are significant, open an issue first to discuss plans
 # Preferred workflow (public contributors)
 1. Fork the repository
 2. Create a branch in your fork:
     Use a descriptive name, e.g. add/<app> or fix/<issue-number>-short-desc
-3. Make your changes on that branch (one app per PR is preferred)
+3. Make your changes on that branch 
 4. Push the branch to your fork and open a Pull Request (PR) against this repository's default branch
     If you used the web editor, GitHub will create a fork and open a PR for you automatically
 5. Fill out the PR template to help reviewers
