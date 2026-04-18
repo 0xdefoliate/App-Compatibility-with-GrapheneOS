@@ -75,3 +75,5 @@ https://play.google.com/store/apps/details?id=com.codified.hipyard
 Hockey Scores
 https://play.google.com/store/apps/details?id=com.sports.schedules.scores.hockey.nhl
 
+Etsy
+https://play.google.com/store/apps/details?id=com.etsy.android
