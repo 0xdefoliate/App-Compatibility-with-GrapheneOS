@@ -49,6 +49,9 @@ Follow the exact entry format
 
 Keep your PR small and focused.
 
+# App Submission Requirements
+At the very least, any app submitted must function properly for the most part without Play Services, be a lawful app on the Play Store, and be an app that you tested yourself and verified that works without Play Services.
+
 # Questions or help
 
 If you are unsure about the format or have a question, please open an issue.  
