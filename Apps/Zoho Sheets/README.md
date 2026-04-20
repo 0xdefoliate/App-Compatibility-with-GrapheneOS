@@ -1,10 +1,10 @@
-# Zoho Show
+# Zoho Sheets
 Slideshow app
 
 Notifications; not tested
 
-Tested Version; v3.0.22
+Tested Version; v2026.04.15
 
-Play Store Link; https://play.google.com/store/apps/details?id=com.zoho.show.app
+Play Store Link; https://play.google.com/store/apps/details?id=com.zoho.sheet.android
 
 Notes; app works good
