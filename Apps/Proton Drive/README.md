@@ -1,10 +1,8 @@
 # Proton Drive
-Secure Encrypted Cloud Storage
-
-Notifications; Work without Play Services
+Secure Encrypted Cloud Storage by Proton
 
 Tested Version; v2.35.0
 
 Play Store Link; https://play.google.com/store/apps/details?id=me.proton.android.drive
 
-Notes; Everything works
+Notes; Everything works smoothly, including notifications
